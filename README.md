@@ -1,8 +1,8 @@
-# [WordOps](https://wordops.org/)
+# [WordOps Develop](https://wordops.org/)
 
 [![Travis Build Status](https://travis-ci.org/WordOps/WordOps.svg)](https://travis-ci.org/WordOps/WordOps)
 
-WordOps (wo) is the essential toolset that eases WordPress site and server administration.
+WordOps (wo) is the essential toolset that eases WordPress site and server administration. **This branch is purely for development purposes. Things might break!**
 
 **WordOps currently supports:**
 
@@ -22,7 +22,7 @@ WordOps (wo) is the essential toolset that eases WordPress site and server admin
 ## Quick start
 
 ```bash
-wget -qO wo wordops.se/tup && sudo bash wo     # Install WordOps
+wget -qO wo wordops.se/tupdev && sudo bash wo     # Install WordOps
 sudo wo site create example.com --wp     # Install required packages & setup WordPress on example.com
 ```
 ## Must read!
